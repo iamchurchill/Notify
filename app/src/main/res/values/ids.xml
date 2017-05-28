@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="help" type="id"/>
+    <item name="setting" type="id"/>
+    <item name="about" type="id"/>
+    <item name="share" type="id"/>
+    <item name="exit" type="id"/>
+    <item name="app_bar_layout" type="id"/>
+    <item name="app_drawer_layout" type="id"/>
+    <item name="navigation_view" type="id"/>
+    <item name="collapsing_toolbar" type="id"/>
+    <item name="toolbar" type="id"/>
+    <item name="app_content" type="id"/>
+    <item name="actionButton" type="id"/>
+    <item name="home" type="id"/>
+    <item name="stats" type="id"/>
+</resources>

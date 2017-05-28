@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notify</string>
+    <string name="text_help">Help &#38; Feedback</string>
+    <string name="text_share">Share</string>
+    <string name="text_setting">Settings</string>
+    <string name="text_about">About</string>
+    <string name="text_home">Home</string>
+    <string name="text_stats">Statistics</string>
+    <string name="text_exit">Exit</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="fab_scrolling_view_behavior">com.samsoft.notify.behavior.ScrollAwareFABBehavior</string>
+</resources>

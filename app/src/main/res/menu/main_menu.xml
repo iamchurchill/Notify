@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.samsoft.notify.activity.MainActivity">
+
+    <item
+        android:id="@id/share"
+        android:color="#f44336"
+        android:icon="@drawable/ic_share_white_24dp"
+        android:title="@string/text_share"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@id/help"
+        android:icon="@drawable/ic_help_white_24dp"
+        android:title="@string/text_help"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@id/setting"
+        android:icon="@drawable/ic_settings_white_24dp"
+        android:orderInCategory="100"
+        android:title="@string/text_setting"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@id/about"
+        android:icon="@drawable/ic_settings_white_24dp"
+        android:orderInCategory="100"
+        android:title="@string/text_about"
+        app:showAsAction="never" />
+
+</menu>

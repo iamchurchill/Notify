@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@id/home"
+            android:checked="true"
+            android:icon="@drawable/ic_home_white_24dp"
+            android:title="@string/text_home" />
+
+        <item
+            android:id="@id/stats"
+            android:icon="@drawable/ic_assessment_white_24dp"
+            android:title="@string/text_stats" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@id/about"
+                    android:icon="@drawable/ic_home_white_24dp"
+                    android:title="@string/text_about" />
+
+                <item
+                    android:id="@id/setting"
+                    android:icon="@drawable/ic_settings_white_24dp"
+                    android:title="@string/text_setting" />
+
+                <item
+                    android:id="@id/exit"
+                    android:icon="@drawable/ic_exit_to_app_white_24dp"
+                    android:title="@string/text_exit" />
+            </group>
+        </menu>
+    </item>
+
+</menu>
